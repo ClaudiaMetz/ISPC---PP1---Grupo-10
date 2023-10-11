@@ -12,11 +12,11 @@ Quiroga Horacio Eduardo<br>
 Simular de manera vivencial, la forma de trabajar en un entorno
 profesional relacionado con la ciencia de datos e inteligencia
 artificial.<br>
-● Desarrollar habilidades prácticas en el manejo de herramientas,
-técnicas y metodologías utilizadas en el campo.
-● Fomentar el trabajo en equipo, la comunicación y la resolución de
-problemas en situaciones reales.<br>
-● Potencias las competencias necesarias para insertarse en el mundo
-laboral actual.<br>
+<p>● Desarrollar habilidades prácticas en el manejo de herramientas,
+técnicas y metodologías utilizadas en el campo.</p>
+<p>● Fomentar el trabajo en equipo, la comunicación y la resolución de
+problemas en situaciones reales.<br></p>
+<p>● Potencias las competencias necesarias para insertarse en el mundo
+laboral actual.<br></p>
 Desarrollar un sistema de Machine Learning bazado en la violencia a mujeres en provincia de BsAs - CABA  y resto del país Esto permitirá una identificación temprana y precisa de los riesgos <a href="https://stars.github.com/">GitHub Star 🌟
 
