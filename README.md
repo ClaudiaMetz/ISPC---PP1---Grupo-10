@@ -8,6 +8,7 @@ Metz Claudia<br>
 Quiroga Horacio Eduardo<br>
 Ivan Didier Meier<br>
 Flores Nadia Daniela<br>
+Muñoz Mariel<br>
  👩🏾‍💻
 <h4>OBJETIVOS</h4>
 Simular de manera vivencial, la forma de trabajar en un entorno
