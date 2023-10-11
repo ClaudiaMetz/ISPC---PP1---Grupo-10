@@ -11,12 +11,12 @@ Quiroga Horacio Eduardo<br>
 <h4>OBJETIVOS</h4>
 Simular de manera vivencial, la forma de trabajar en un entorno
 profesional relacionado con la ciencia de datos e inteligencia
-artificial.
+artificial.<br>
 ● Desarrollar habilidades prácticas en el manejo de herramientas,
 técnicas y metodologías utilizadas en el campo.
 ● Fomentar el trabajo en equipo, la comunicación y la resolución de
-problemas en situaciones reales.
+problemas en situaciones reales.<br>
 ● Potencias las competencias necesarias para insertarse en el mundo
-laboral actual.
+laboral actual.<br>
 Desarrollar un sistema de Machine Learning bazado en la violencia a mujeres en provincia de BsAs - CABA  y resto del país Esto permitirá una identificación temprana y precisa de los riesgos <a href="https://stars.github.com/">GitHub Star 🌟
 
