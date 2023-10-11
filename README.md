@@ -1,11 +1,11 @@
 # ISPC---PP1---Grupo-10
-Repositorio para el Trabajo Práctico del GRUPO 10 de Práctica Profesionalizante 1 (2023)
-Integrantes:
-Hilgemberg Maria Sol
-Soria Julio Ezequiel
-Bustos Jonathan
-Metz Claudia
-Quiroga Horacio Eduardo
+Repositorio para el Trabajo Práctico del GRUPO 10 de Práctica Profesionalizante 1 (2023) <br>
+Integrantes:<br>
+Hilgemberg Maria Sol<br>
+Soria Julio Ezequiel<br>
+Bustos Jonathan<br>
+Metz Claudia<br>
+Quiroga Horacio Eduardo<br>
 
 # ISPC---PP1---Grupo-10 👋🏾 👩🏾‍💻
 <h4>OBJETIVOS</h4>
