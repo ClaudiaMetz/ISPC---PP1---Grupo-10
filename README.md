@@ -7,3 +7,7 @@ Bustos Jonathan
 Metz Claudia
 Quiroga Horacio Eduardo
 
+# ISPC---PP1---Grupo-10 👋🏾 👩🏾‍💻
+<h4>OBJETIVOS</h4>
+Desarrollar un sistema de Machine Learning bazado en la violencia a mujeres en provincia de BsAs - CABA  y resto del país Esto permitirá una identificación temprana y precisa de los riesgos <a href="https://stars.github.com/">GitHub Star 🌟
+
