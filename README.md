@@ -6,7 +6,7 @@ Soria Julio Ezequiel<br>
 Bustos Jonathan<br>
 Metz Claudia<br>
 Quiroga Horacio Eduardo<br>
-
+Ivan Didier Meier<br>
  👩🏾‍💻
 <h4>OBJETIVOS</h4>
 Simular de manera vivencial, la forma de trabajar en un entorno
