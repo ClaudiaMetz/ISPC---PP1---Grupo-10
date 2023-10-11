@@ -7,7 +7,7 @@ Bustos Jonathan<br>
 Metz Claudia<br>
 Quiroga Horacio Eduardo<br>
 
-# ISPC---PP1---Grupo-10  👩🏾‍💻
+ 👩🏾‍💻
 <h4>OBJETIVOS</h4>
 Simular de manera vivencial, la forma de trabajar en un entorno
 profesional relacionado con la ciencia de datos e inteligencia
