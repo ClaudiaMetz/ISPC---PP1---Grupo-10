@@ -27,9 +27,13 @@ Desarrollar un sistema de Machine Learning basado en la violencia a mujeres en p
 <p>●Inspección gráfica de los estadísticos<br></p>
 <p>Definir modelos a entrenar. </p>
 <p>Calcular métricas</p>
-<p>Evaluar modelos</p>
+<p>Evaluar modelos</p><br>
+<h4>VARIABLES</h4>
+<p>Las variables incluidas en el conjunto de datos son las siguientes:</p>
 
 
-<a href="https://stars.github.com/">RECURSOS🌟
+<a href="https://stars.github.com/">RECURSOS🌟<br>
+<a href="https://stars.github.com/">RECURSOS🌟<br>
+
 <a href="https://trello.com/b/SE0rBeCR/tablero-para-el-trabajo-pr%C3%A1ctico-del-grupo-10-de-pr%C3%A1ctica-profesionalizante-1-2023">Trello 🌟
 
