@@ -1,6 +1,12 @@
-# ISPC---PP1---Grupo-10
-<h4>Repositorio para el Trabajo Práctico del GRUPO 10 de Práctica Profesionalizante 1 (2023) <br></h4>
-Integrantes:<br>
+
+<h1 align="center">
+  GRUPO 10 - Práctica Profesionalizante 1 - ISPC
+</h1>
+
+<p align="center">
+  <img src="https://github.com/ClaudiaMetz/ISPC---PP1---Grupo-10/blob/main/CD.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
+<h4>Integrantes: </h4>
 Hilgemberg Maria Sol<br>
 Soria Julio Ezequiel<br>
 Bustos Jonathan<br>
