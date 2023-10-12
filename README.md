@@ -6,17 +6,20 @@
 <p align="center">
   <img src="https://github.com/ClaudiaMetz/ISPC---PP1---Grupo-10/blob/main/CD.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
-<h4>Integrantes: </h4>
-Hilgemberg Maria Sol<br>
+<h2 align="center">Integrantes: 👩🏾‍💻 </h2>
+<h5 align="center">Hilgemberg Maria Sol<br>
 Soria Julio Ezequiel<br>
 Bustos Jonathan<br>
 Metz Claudia<br>
 Quiroga Horacio Eduardo<br>
 Ivan Didier Meier<br>
 Flores Nadia Daniela<br>
-Muñoz Mariel<br>
- 👩🏾‍💻
+Muñoz Mariel<br></h5>
+
+---
+
 <h4>OBJETIVOS</h4>
+<br>
 Simular de manera vivencial, la forma de trabajar en un entorno
 profesional relacionado con la ciencia de datos e inteligencia
 artificial.<br>
@@ -35,12 +38,14 @@ Desarrollar un sistema de Machine Learning basado en la violencia a mujeres en p
 <p>Definir modelos a entrenar. </p>
 <p>Calcular métricas</p>
 <p>Evaluar modelos</p><br>
+---
 <h4>VARIABLES</h4>
+<br>
 <p>Las variables incluidas en el conjunto de datos son las siguientes:</p>
 
 
 <a href="https://stars.github.com/">RECURSOS🌟<br>
-<a href="https://stars.github.com/">RECURSOS🌟<br>
 
-<a href="https://trello.com/b/SE0rBeCR/tablero-para-el-trabajo-pr%C3%A1ctico-del-grupo-10-de-pr%C3%A1ctica-profesionalizante-1-2023">Trello 🌟
+<img src="https://github.com/ClaudiaMetz/ISPC---PP1---Grupo-10/blob/main/colabimg.jpg" width="40%" title="Intro Card" alt="Intro Card">
+<img src="https://github.com/ClaudiaMetz/ISPC---PP1---Grupo-10/blob/main/colabimg.jpg" width="40%" title="Intro Card" alt="Intro Card">
 
