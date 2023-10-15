@@ -12,7 +12,7 @@ Soria Julio Ezequiel<br>
 Bustos Jonathan<br>
 Metz Claudia<br>
 Quiroga Horacio Eduardo<br>
-Ivan Didier Meier<br>
+Meier Ivan Didier<br>
 Flores Nadia Daniela<br>
 Muñoz Mariel<br></h5>
 
@@ -21,21 +21,21 @@ Muñoz Mariel<br></h5>
 <h4>OBJETIVOS</h4>
 <br>
 Simular de manera vivencial, la forma de trabajar en un entorno
-profesional relacionado con la ciencia de datos e inteligencia
-artificial.
+profesional relacionado con la Ciencia de Datos e Inteligencia
+Artificial.
 <br>
 <p>Desarrollar habilidades prácticas en el manejo de herramientas,
 técnicas y metodologías utilizadas en el campo.</p>
 <p>Fomentar el trabajo en equipo, la comunicación y la resolución de
 problemas en situaciones reales.<br></p>
-<p> Potencias las competencias necesarias para insertarse en el mundo
+<p> Potenciar las competencias necesarias para insertarse en el mundo
 laboral actual.<br></p>
 
 ---
 
 <h4>NUESTRO TRABAJO</h4>
 <br>
-Desarrollar un sistema de Machine Learning basado en la violencia a mujeres en provincia de BsAs - CABA  y resto del país.
+Desarrollar un sistema de Machine Learning basado en las llamadas de denuncia de violencia a mujeres en provincia de BsAs - CABA  y resto del país.
 <br>
 <p>Definir tipo de problema y objetivo   </p>
 <p>Carga de datos<br></p>
@@ -49,7 +49,7 @@ Desarrollar un sistema de Machine Learning basado en la violencia a mujeres en p
 
 <h4>VARIABLES</h4>
 <br>
-<p>Las variables incluidas en el conjunto de datos son las siguientes:</p>
+<p>Las variables incluídas en el conjunto de datos son las siguientes:</p>
 
 
 ---
