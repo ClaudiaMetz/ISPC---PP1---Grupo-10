@@ -37,25 +37,25 @@ laboral actual.<br></p>
 <br>
 Desarrollar un sistema de Machine Learning basado en las llamadas de denuncia de violencia a mujeres en provincia de BsAs - CABA  y resto del país.
 <br>
-<p>Definir tipo de problema y objetivo   </p>
-<p>Carga de datos<br></p>
-<p>Análisis exploratorio de datos<br></p>
-<p>Inspección gráfica de los estadísticos<br></p>
-<p>Definir modelos a entrenar. </p>
-<p>Calcular métricas</p>
-<p>Evaluar modelos</p><br>
+<h3>Recursos del dataset:</h3><br>
+<p>Base de datos de la Línea 144
+Ministerio de las Mujeres, Géneros y Diversidad de la Nación - Dirección Técnica de Registros y Bases de Datos. 
+
+La información publicada corresponde a aquellas comunicaciones recibidas por la Línea 144 denominadas intervenciones, en donde las personas que se comunican acceden a dejar sus datos para un adecuado abordaje y seguimiento. Los registros corresponden a las tres sedes que gestionan la Línea 144: Provincia de Buenos Aires, CABA, y la sede de gestión nacional (actualmente a cargo del MMGyD).
+<a href="https://datos.gob.ar/dataset/generos-base-datos-linea-144">Link.
+</p>
+<h3> Puntos a Trabajar:</h3>
+<p>>>>Carga de datos<br></p>
+<p>>>>Análisis exploratorio de datos<br></p>
+<p>>>>Inspección gráfica de los estadísticos<br></p>
+<p>>>>Definir modelos a entrenar. </p>
+<p>>>>Calcular métricas</p>
+<p>>>>Evaluar modelos</p><br>
 
 ---
-
-<h4>VARIABLES</h4>
-<br>
-<p>Las variables incluídas en el conjunto de datos son las siguientes:</p>
-
-
 ---
 
 <a href="https://stars.github.com/">RECURSOS🌟<br>
-
-<img src="https://github.com/ClaudiaMetz/ISPC---PP1---Grupo-10/blob/main/colabimg.jpg" width="40%" title="Intro Card" alt="Intro Card">
-<img src="https://github.com/ClaudiaMetz/ISPC---PP1---Grupo-10/blob/main/Trello.jpg" width="40%" title="Intro Card" alt="Intro Card">
+<a href="https://colab.research.google.com/drive/1DunpTK3PeaRDDaAz4lEPpWq495m5L-Ah#scrollTo=Y4IzVwnXSGHG"><img src="https://github.com/ClaudiaMetz/ISPC---PP1---Grupo-10/blob/main/colabimg.jpg" width="40%" title="Intro Card" alt="Intro Card">
+<a href="https://trello.com/b/SE0rBeCR/tablero-para-el-trabajo-pr%C3%A1ctico-del-grupo-10-de-pr%C3%A1ctica-profesionalizante-1-2023"><img src="https://github.com/ClaudiaMetz/ISPC---PP1---Grupo-10/blob/main/Trello.jpg" width="40%" title="Intro Card" alt="Intro Card">
 
