@@ -45,6 +45,11 @@ La información publicada corresponde a aquellas comunicaciones recibidas por la
 <a href="https://datos.gob.ar/dataset/generos-base-datos-linea-144">Link.
 </p>
 <h3> Puntos a Trabajar:</h3>
+<p>En este proyecto, se explorará el conjunto de datos datos de la Línea 144 Ministerio de las Mujeres, Géneros y Diversidad de la Nación - Dirección Técnica de Registros y Bases de Datos. Utilizando herramientas y técnicas de análisis de datos. Se buscará responder preguntas específicas, como:</p>
+<p>¿Cúal es el promedio de edad de las víctimas?</p>
+<p>¿Cúal es la cantidad de denunciantes y porcentaje en CABA Y PROV DE BUENOS AIRES con respecto a la población total?</p>
+<p>¿Que diferencia existe entre Denunciantes por violencia fisica y vilencia psicologica?</p>
+<h6>Los Pasos a seguir: </h6>
 <p>>>>Carga de datos<br></p>
 <p>>>>Análisis exploratorio de datos<br></p>
 <p>>>>Inspección gráfica de los estadísticos<br></p>
