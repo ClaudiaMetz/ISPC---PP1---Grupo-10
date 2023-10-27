@@ -61,6 +61,6 @@ La información publicada corresponde a aquellas comunicaciones recibidas por la
 ---
 
 <a href="https://stars.github.com/">RECURSOS🌟<br>
-<a href="https://colab.research.google.com/drive/1DunpTK3PeaRDDaAz4lEPpWq495m5L-Ah#scrollTo=Y4IzVwnXSGHG"><img src="https://github.com/ClaudiaMetz/ISPC---PP1---Grupo-10/blob/main/colabimg.jpg" width="40%" title="Intro Card" alt="Intro Card">
+<a href="https://colab.research.google.com/drive/1zxKEKvCfkHKwMbdQOWSFJMwOQVNWZRX3#scrollTo=llzJf-FL8WQL"><img src="https://github.com/ClaudiaMetz/ISPC---PP1---Grupo-10/blob/main/colabimg.jpg" width="40%" title="Intro Card" alt="Intro Card">
 <a href="https://trello.com/b/SE0rBeCR/tablero-para-el-trabajo-pr%C3%A1ctico-del-grupo-10-de-pr%C3%A1ctica-profesionalizante-1-2023"><img src="https://github.com/ClaudiaMetz/ISPC---PP1---Grupo-10/blob/main/Trello.jpg" width="40%" title="Intro Card" alt="Intro Card">
 
